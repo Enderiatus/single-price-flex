@@ -1,1 +1,1 @@
-Frontendmentor sitesindeki challengelerden birisi.
+Frontendmentor challenge.
